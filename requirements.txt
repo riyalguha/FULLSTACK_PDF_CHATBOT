@@ -1,0 +1,19 @@
+# Core AI and Backend
+langchain
+langchain-google-genai
+langchain-huggingface
+langchain-community
+langchain-chroma
+fastapi
+uvicorn[standard]
+pydantic
+
+# Data Ingestion and Vector DB
+pypdf
+sentence-transformers
+chromadb-client
+
+# Frontend and API calls
+streamlit
+requests
+python-dotenv
